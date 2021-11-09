@@ -1,6 +1,6 @@
 # Statistics for machine learning
 
-## Calculate confidence intervals and compare classifier performance using delong test and bootstraping
+## Calculate confidence intervals and compare classifier performance using delong test and bootstrapping
 
 The code for bootstraping is based on
 https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/ https://stackoverflow.com/questions/19124239/scikit-learn-roc-curve-with-confidence-intervals
