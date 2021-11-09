@@ -1,1 +1,1 @@
-# stats_for_ML
+# Statistics for machine learning
